@@ -1,0 +1,9 @@
+telnet_port:
+    type: port
+    min: 1500
+
+alice_flag:
+    type: text
+
+root_flag:
+    type: text
